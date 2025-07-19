@@ -82,4 +82,10 @@ The Personal Portfolio Webpage is a professional and elegant front-end project t
 
 ## OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/8730b9fd-eb9a-4471-81d8-88656f5a8806)
+![Image](https://github.com/user-attachments/assets/5b41eaba-e349-4b62-9d60-774c524570e6)
+
+<img width="1895" height="972" alt="Image" src="https://github.com/user-attachments/assets/198ce567-1af7-416a-981d-c8362abba4a5" />
+
+<img width="1898" height="968" alt="Image" src="https://github.com/user-attachments/assets/a710cd70-fcc3-444b-99c0-977372a3c25a" />
+
+<img width="1901" height="965" alt="Image" src="https://github.com/user-attachments/assets/45aa48fa-d7a3-4040-9a6b-0a55610fed14" />
